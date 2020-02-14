@@ -1,4 +1,4 @@
-def print_helloworld_tentimes # Use this space to code along with the readme
+def print_hello_world_ten_times # Use this space to code along with the readme
 
 phrase = "Hello World!"
 puts phrase
@@ -12,4 +12,4 @@ puts phrase
 puts phrase
 puts phrase
 end
-print_helloworld_tentimes
+print_hello_world_ten_times
